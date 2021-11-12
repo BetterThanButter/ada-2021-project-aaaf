@@ -70,11 +70,12 @@ We should notice the data we have is very large, that is why we are going to use
     
     `python scripts/utils.py --file=data/union.json`
     
-##### Exploratary Analysis
+##### Exploratory Analysis
 We are going to start with simple graphical and statistical exploration of data.
 In this part we are going to use basic data analysis tools to get in touch with our data and to understand precisely the direction of analysis on the next parts.
 1. For some first and last names, presented in quotes dataset, there are several wikipedia pages, so we have to extract features of the person we are interested in.
-2. 
+2. We also added an analysis of the quotes distribuiton during the year. 
+3. Analysis about different occupations
     
 ##### Correlation analysis
 
